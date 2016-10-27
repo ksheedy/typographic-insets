@@ -98,6 +98,7 @@ footer {
   font-style: normal;
   padding: 6px;
   margin: 10px;
+  /*add a negative margin Katie!*/
 }
 
 figure {
@@ -113,4 +114,14 @@ figcaption {
   font-size: .875rem;
   font-style: italic;
   padding: 6px 0;
+}
+
+blockquote {
+  float: left;
+  width: 300px;
+  font-size: 1.5rem;
+  color: #666;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
+  padding: 6px;
 }
