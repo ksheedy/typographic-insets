@@ -99,3 +99,21 @@ footer {
   padding: 6px;
   margin: 10px;
 }
+
+figure {
+  float: right;
+  width: 300px;
+  margin: 10px;
+}
+
+img {
+  border-top: 3px solid #333;
+  padding: 6px 0;
+}
+
+figcaption {
+  font-size: .875rem;
+  font-style: italic;
+  padding: 6px 0;
+  border-bottom: 3px solid #333;
+}
