@@ -96,9 +96,10 @@ footer {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   font-style: normal;
-  padding: 6px;
-  margin: 10px;
-  /*add a negative margin Katie!*/
+  padding: 15px;
+  margin-left: -40px;
+  margin-right: 12px;
+  margin-bottom: 12px;
 }
 
 figure {
