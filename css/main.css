@@ -87,6 +87,7 @@ footer {
 */
 
 /* Write your CSS here */
+
 .wrapper > p:first-child::first-letter {
   float: left;
   width: 5rem;
@@ -105,13 +106,17 @@ footer {
 figure {
   float: right;
   width: 300px;
-  margin: 10px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   padding: 6px 0;
+  margin-right: -150px;
+  margin-left: 10px;
+  margin-top: 7px;
+  margin-bottom: 10px;
 }
 
 figcaption {
+  line-height: normal;
   font-size: .875rem;
   font-style: italic;
   padding: 6px 0;
